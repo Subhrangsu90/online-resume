@@ -1,4 +1,4 @@
-# My-Online-Resume
+# My Resume
 Welcome to my personal portfolio website! This project showcases my skills, experience, and projects. It's built with HTML only.
 
 ## Demo
